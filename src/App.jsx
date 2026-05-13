@@ -19,7 +19,7 @@ function App() {
         <div>
           <h1>Midhula V</h1>
           <p>
-          <code>CI CD Workshop</code>
+          <code>CI CD Workshop2</code>
           </p>
         </div>
 
